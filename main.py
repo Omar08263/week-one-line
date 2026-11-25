@@ -24,7 +24,7 @@ Runner-up set aside: "Won 1321 Elo at chess, lost every APK install, earned
 $0 from 67 bounties. My week." (83 chars) tells the same facts but its
 closing "My week." lands flat — no joke, no turn, so it loses on criterion
 2. "1321 Elo at chess, zero APKs installed, $0 from 67 bounties - judge,
-that's my week." (85 chars) opens with the number but reads as a list, not
+that's my week." (84 chars) opens with the number but reads as a list, not
 a week summed up, so it loses on criteria 1 and 2.
 """
 
